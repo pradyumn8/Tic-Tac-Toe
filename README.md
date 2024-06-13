@@ -41,6 +41,10 @@ Start the development server:
 ```bash
 npm run dev
 ```
+# Deployed Link
+```bash
+https://tik-tak-2.netlify.app/
+```
 
 Open your browser and navigate to http://localhost:5173/ to see the game in action.
 
