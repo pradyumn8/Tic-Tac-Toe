@@ -14,6 +14,10 @@ function Grid({ numberOfCards }) {
         } else {
             board[index] = "X";
         }
+        const win = isWinner(board, turn ? "O" : "X");
+        if(win) {
+            setWinner(win);
+        }
         setBoard([...board]);
         setTurn(!turn)
     }
