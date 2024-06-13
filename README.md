@@ -26,6 +26,9 @@ To get started with the project, clone the repository to your local machine:
 
 ```bash
 git clone [https://github.com/your-username/tic-tac-toe-react.git](https://github.com/pradyumn8/Tic-Tac-Toe.git)
+```
+## Change directory
+```bash
 cd Tic-Tac-Toe
 ```
 
@@ -41,10 +44,10 @@ Start the development server:
 ```bash
 npm run dev
 ```
-# Deployed Link
-```bash
+## Deployed Link
+
 https://tik-tak-2.netlify.app/
-```
+
 
 Open your browser and navigate to http://localhost:5173/ to see the game in action.
 
