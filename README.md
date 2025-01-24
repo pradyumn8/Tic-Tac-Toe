@@ -25,7 +25,7 @@ Welcome to the **Tic Tac Toe** game built with React! This project is a simple a
 To get started with the project, clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/your-username/tic-tac-toe-react.git](https://github.com/pradyumn8/Tic-Tac-Toe.git)
+git clone https://github.com/pradyumn8/Tic-Tac-Toe.git
 ```
 ## Change directory
 ```bash
